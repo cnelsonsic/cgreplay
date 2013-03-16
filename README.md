@@ -37,7 +37,7 @@ but should be the official names for those areas,
 if in lowercase for consistency.
 
 An example of such data:
-```
+```json
 {
     "header": {
         "Event": "2038 Mars Pro Tour",
